@@ -92,7 +92,7 @@ public class ReadXMLFile {
 					new BufferedWriter(
 							new FileWriter(
 									new File(
-											"D:\\Users\\703195115\\HeRe\\work\\workspace\\eclipse\\DCCE\\MarshallAndUnmarshall\\out\\Articles_"
+											"D:\\Users\\argho\\project\\SOM\\datacollection\\output\\Articles_"
 													+ System.currentTimeMillis()))));) {
 				for (; to < articleIdsLst.size()-1; ) {
 					from = to;
