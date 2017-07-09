@@ -1,0 +1,286 @@
+<PubmedArticleSet>
+<PubmedArticle>
+<MedlineCitation Status="Publisher" Owner="NLM">
+<PMID Version="1">28685630</PMID>
+<DateCreated>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateCreated>
+<DateRevised>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1502-7708</ISSN>
+<JournalIssue CitedMedium="Internet">
+<PubDate>
+<Year>2017</Year>
+<Month>Jul</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Scandinavian journal of gastroenterology</Title>
+<ISOAbbreviation>Scand. J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>
+The potential role of fecal microbiota transplantation in the treatment of inflammatory Bowel disease.
+</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-13</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/00365521.2017.1347812</ELocationID>
+<Abstract>
+<AbstractText>
+Inflammatory bowel disease (IBD) is a chronic inflammatory disorder of an unknown etiology. Its pathogenesis involves an interplay of infectious, genetic, environmental, and immunological factors. The current therapeutic options have various limitations in terms of cost, side effect profile, and the development of drug resistance and dependence. Therefore, there is a need to develop future therapeutic options which are safe and effective to control the inflammatory process. This review focuses in a method for the administration of fecal matters (which contains a mixture of various commensals) from a healthy donor to the inflamed colon called fecal microbiota transplantation (FMT) aiming to correct the underlying dysbiosis in the gut as one of the major driving force for the inflammatory process. IBD patients have reduced number of protective (e.g., clostridia and bacteroids) and increased number of pathogenic (e.g., adhesive invasive E. coli and mycobacterium avium paratuberculosis) commensals, and this method is aimed to shift these changes in the gut. Recent studies from animal models and clinical trials suggest promising effects of this method in treating patients with IBD, but more studies are urgently needed to confirm its efficacy and safety, since the etiology of this chronic inflammatory disease is not fully understood and caution should be taken when transplanting fecal matters between individuals which might transfer other infectious organisms and diseases.
+</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Khajah</LastName>
+<ForeName>Maitham Abbas</ForeName>
+<Initials>MA</Initials>
+<AffiliationInfo>
+<Affiliation>
+a Pharmacology & Therapeutics, Faculty of Pharmacy , Kuwait University , Kuwait , Kuwait.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2017</Year>
+<Month>07</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Scand J Gastroenterol</MedlineTA>
+<NlmUniqueID>0060105</NlmUniqueID>
+<ISSNLinking>0036-5521</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Colitis</Keyword>
+<Keyword MajorTopicYN="N">bacteria</Keyword>
+<Keyword MajorTopicYN="N">commensals</Keyword>
+<Keyword MajorTopicYN="N">dysbiosis</Keyword>
+<Keyword MajorTopicYN="N">fecal matters</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>aheadofprint</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">28685630</ArticleId>
+<ArticleId IdType="doi">10.1080/00365521.2017.1347812</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="In-Data-Review" Owner="NLM">
+<PMID Version="1">28684564</PMID>
+<DateCreated>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateCreated>
+<DateRevised>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Print">2169-8287</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>5</Volume>
+<Issue>27</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Jul</Month>
+<Day>06</Day>
+</PubDate>
+</JournalIssue>
+<Title>Genome announcements</Title>
+<ISOAbbreviation>Genome Announc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>
+Draft Genome Sequences of Three Mycobacterium bovis Strains Identified in Cattle and Wildlife in France.
+</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">e00410-17</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1128/genomeA.00410-17</ELocationID>
+<Abstract>
+<AbstractText>
+Mycobacterium bovis is the etiologic agent of bovine tuberculosis, a chronic infectious disease affecting livestock, wild animals, and sometimes humans. We report here three draft genome sequences of Mycobacterium bovis strains of spoligotypes SB0821 and SB0134, isolated from wildlife but circulating in wildlife-livestock multihost systems, and SB0121, circulating exclusively in cattle.
+</AbstractText>
+<CopyrightInformation>Copyright © 2017 Branger et al.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Branger</LastName>
+<ForeName>Maxime</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>
+INRA, Université de Tours, UMR 1282, Infectiologie et Santé Publique, Nouzilly, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hauer</LastName>
+<ForeName>Amandine</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michelet</LastName>
+<ForeName>Lorraine</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karoui</LastName>
+<ForeName>Claudine</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cochard</LastName>
+<ForeName>Thierry</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>
+INRA, Université de Tours, UMR 1282, Infectiologie et Santé Publique, Nouzilly, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Cruz</LastName>
+<ForeName>Krystel</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henault</LastName>
+<ForeName>Sylvie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boschiroli</LastName>
+<ForeName>María Laura</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>
+Université Paris-Est, Laboratoire National de Référence Tuberculose, Unité Zoonoses Bactériennes, Laboratoire de Santé Animale, ANSES, Maisons-Alfort, France maria-laura.boschiroli@anses.fr Franck.Biet@tours.inra.fr.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biet</LastName>
+<ForeName>Franck</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>
+INRA, Université de Tours, UMR 1282, Infectiologie et Santé Publique, Nouzilly, France maria-laura.boschiroli@anses.fr Franck.Biet@tours.inra.fr.
+</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2017</Year>
+<Month>07</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Genome Announc</MedlineTA>
+<NlmUniqueID>101595808</NlmUniqueID>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">28684564</ArticleId>
+<ArticleId IdType="pii">5/27/e00410-17</ArticleId>
+<ArticleId IdType="doi">10.1128/genomeA.00410-17</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>
